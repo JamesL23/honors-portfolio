@@ -1,5 +1,13 @@
 body#index {
-    background-color: #75ff9a;
+    background-color: #bfffb3;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+body#cs {
+    background-color: #caf3ff;
+    margin-right: 25px;
+    margin-left: 25px;
 }
 
 /* body#name-of-body-id to color other pages */
@@ -32,7 +40,7 @@ body#index {
     text-align: center;
     text-decoration: underline;
     font-size: 32px;
-    font-family: monospace;
+    font-family: 'Comic Sans MS';
     letter-spacing: 5px;
 }
 .rainbow_text_animated {
