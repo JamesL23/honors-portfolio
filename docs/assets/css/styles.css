@@ -2,12 +2,14 @@ body#index {
     background-color: #bfffb3;
     margin-right: 25px;
     margin-left: 25px;
+    line-height: 1.5;
 }
 
 body#cs {
     background-color: #caf3ff;
     margin-right: 25px;
     margin-left: 25px;
+    line-height: 1.5;
 }
 
 /* body#name-of-body-id to color other pages */
