@@ -19,6 +19,14 @@ body#career {
     line-height: 1.5;
 }
 
+body#bonus {
+    background-color: #000000;
+    color: white;
+    margin-right: 25px;
+    margin-left: 25px;
+    line-height: 1.5;
+}
+
 /* body#name-of-body-id to color other pages */
 
 
