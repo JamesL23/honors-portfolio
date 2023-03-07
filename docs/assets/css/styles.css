@@ -12,8 +12,29 @@ body#cs {
     line-height: 1.5;
 }
 
+body#honors {
+    background-color: #cad8ff;
+    margin-right: 25px;
+    margin-left: 25px;
+    line-height: 1.5;
+}
+
+body#other-classes {
+    background-color: #d5caff;
+    margin-right: 25px;
+    margin-left: 25px;
+    line-height: 1.5;
+}
+
+body#uw-smash {
+    background-color: #f0caff;
+    margin-right: 25px;
+    margin-left: 25px;
+    line-height: 1.5;
+}
+
 body#career {
-    background-color: #fcd8ae;
+    background-color: #ffcae7;
     margin-right: 25px;
     margin-left: 25px;
     line-height: 1.5;
