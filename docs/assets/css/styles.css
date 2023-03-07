@@ -12,7 +12,16 @@ body#cs {
     line-height: 1.5;
 }
 
+body#career {
+    background-color: #fcd8ae;
+    margin-right: 25px;
+    margin-left: 25px;
+    line-height: 1.5;
+}
+
 /* body#name-of-body-id to color other pages */
+
+
 
 .image-figure-container {
     display:flex;
